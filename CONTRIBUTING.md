@@ -5,7 +5,7 @@ Thank you for your interest in contributing to the SVM Classifier project! Your 
 ## 🧑‍💻 How to Contribute
 
 1. **Fork the repository** and clone it locally.
-2. Open the script you want to modify (e.g., `svm_kernel.py` or `svm_linear.py`).
+2. Open the script you want to modify (e.g., `support_vector_machine.py` or `kernel_svm.py`).
 3. Make your changes or add new features.
 4. Ensure your code is clean and properly commented.
 5. Test your changes thoroughly using sample data or your own test cases.
