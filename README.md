@@ -1,6 +1,6 @@
 # Kernel SVM Classifier in Python (Google Colab Friendly)
 
-This repository demonstrates the implementation of a Support Vector Machine (SVM) classifier using both **Linear** and **Kernel (RBF)** options on the Social Network Ads dataset.
+This repository showcases a comparative implementation of Support Vector Machine (SVM) classifiers using both Linear and RBF (Kernel) approaches on the Social Network Ads dataset, illustrating how the RBF kernel effectively captures complex, non-linear patterns that a linear kernel might miss.
 
 ## 📌 Project Features
 
